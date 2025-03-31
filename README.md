@@ -23,3 +23,11 @@
 
 ![Unique values Analyzed](https://github.com/viksaraw/Module-11-Pics/blob/main/Pic%204%20-%20Unique%20value%20analysis.png)
 ![Unique values Analyzed](https://github.com/viksaraw/Module-11-Pics/blob/main/Pic%205%20Unique%20Value%20Analysis.png)
+
+### 5. Analyzing duplicate values
+#### Analysis # 4 : No duplicate records found in the data set
+![No Duplicates found](https://github.com/viksaraw/Module-11-Pics/blob/main/Pic%206%20Duplicate%20Analysis.png)
+
+### 6. Eyeballing Price
+#### Analysis # 5 : 36222 cars has price less than $100. This doesn't make sense. Since this number is very less as compared to 4 hundred thousand records,I will delete these records
+![Low Price](https://github.com/viksaraw/Module-11-Pics/blob/main/Pic%207%20-%20Price%20value%20less.png)
