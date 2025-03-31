@@ -57,6 +57,11 @@
 ![Histogram pic](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%204%20-%20Hist%20for%20year%202.png)
 #### Analysis 3 - Histogram is clearly left skewed. Which means we can ignore the data before 2000
 
+#### Histogram plot for manufacturere
+![Histogram query per manufacturer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%205%20Histogram%20query%20for%20manufacturer.png)
+![Histogram per manufacturer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%206%20Histogram%20for%20manufacturer.png)
+
+
 
 
 
