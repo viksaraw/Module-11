@@ -52,6 +52,11 @@
 ![Scatter plot for odometer vs price](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%202%20Scatter%20Plot%20-%20Odometer%20vs%20Price.png)
 #### Analysis 2 - Few outliers on year, so can be ignored 
 
+### Histogram plot for year to see cars in each year from the data
+![Histogram Query](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%203%20-%20Hist%20for%20year%201.png)
+![Histogram pic](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%204%20-%20Hist%20for%20year%202.png)
+#### Analysis 3 - Histogram is clearly left skewed. Which means we can ignore the data before 2000
+
 
 
 
