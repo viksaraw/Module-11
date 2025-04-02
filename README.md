@@ -62,10 +62,10 @@
 ![Histogram per manufacturer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%206%20Histogram%20for%20manufacturer.png)
 
 #### Box plot for Price to see outliers
-![Removing outliers](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-8%20Outlier%20removed.png)
+![Box plot for price](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%20-%207%20Box%20plot%20Outlier%20analysis.png)
 
 #### Analysis 4: Clearly there are outliers which can be removed, Below I am removing these outliers
-![Box plot for price](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%20-%207%20Box%20plot%20Outlier%20analysis.png)
+![Removing outliers](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-8%20Outlier%20removed.png)
 
 
 
