@@ -67,6 +67,9 @@
 #### Analysis 4: Clearly there are outliers which can be removed, Below I am removing these outliers
 ![Removing outliers](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-8%20Outlier%20removed.png)
 
+#### Countplot for fuel
+![Countplot for fuel](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-9%20Countplot%20fuel.png)
+
 
 
 
