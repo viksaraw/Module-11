@@ -78,7 +78,11 @@
 ![Price vs Odometer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-%2011%20Scatter%20Price%20vs%20odometer.png)
 
 
+## Data Preperation
+#### After analyzin the data it is clear that this data needs to be prepared before running the models. Below are few steps to prepare the data
 
+1. Handle NaN values
+   
 
 
 
