@@ -73,6 +73,10 @@
 #### Countplot for transmission
 ![Countplot for transmission](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-10%20Countplot%20transmission.png)
 
+#### Bivariate Analysis
+##### Scatter plot between price and odometer
+![Price vs Odometer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-%2011%20Scatter%20Price%20vs%20odometer.png)
+
 
 
 
