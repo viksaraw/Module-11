@@ -70,6 +70,9 @@
 #### Countplot for fuel
 ![Countplot for fuel](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-9%20Countplot%20fuel.png)
 
+#### Countplot for transmission
+![Countplot for transmission](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-10%20Countplot%20transmission.png)
+
 
 
 
