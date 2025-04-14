@@ -84,9 +84,17 @@
 Analysis:  From the correlation plot, it is clear  that price is positively correlated with year and negatively correlated with odometer.
 
 ## Data Preperation
-#### After analyzin the data it is clear that this data needs to be prepared before running the models. Below are few steps to prepare the data
+#### After analyzing the data it is clear that this data needs to be prepared before running the models. Below are few steps to prepare the data
 
-1. Handle NaN values
+1. NaN values
+   I found that many columns has NaN or 'NaN' values. The percentage of such records needs to be identified
+   <br> Below pic shows the percentage of NaN values for each column
+   ![Nan Values](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%201%20-%20Percentage%20of%20NA.png)
+
+2. Many columns like year, model, fuel, odometer, transmission have less than 1.5% of NaN values, so deleting those records won't impact our analysis
+   ![Drop NA](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%202%20-%20Dropping%20na%20rows.png)
+   
+   
    
 
 
