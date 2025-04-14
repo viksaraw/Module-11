@@ -93,7 +93,9 @@ Analysis:  From the correlation plot, it is clear  that price is positively corr
 
 2. Many columns like year, model, fuel, odometer, transmission have less than 1.5% of NaN values, so deleting those records won't impact our analysis
    ![Drop NA](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%202%20-%20Dropping%20na%20rows.png)
-   
+
+3. Based upon Business knowledge I know that fea columns like id, VIN, paint_color doesn't impact the price of car. so dropping them
+   ![Drop Irrelvant columns](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%203%20-%20Drop%20irrelevant%20columns.png)
    
    
 
