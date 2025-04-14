@@ -97,7 +97,8 @@ Analysis:  From the correlation plot, it is clear  that price is positively corr
 3. Based upon Business knowledge I know that fea columns like id, VIN, paint_color doesn't impact the price of car. so dropping them
    ![Drop Irrelvant columns](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%203%20-%20Drop%20irrelevant%20columns.png)
    
-   
+4. Since we already have model we don't need manufacturer also, so dropping manufacturer
+   ![Drop Manufacturer](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%204-%20Drop%20Manufacturer.png)
 
 
 
