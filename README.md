@@ -77,6 +77,11 @@
 ##### Scatter plot between price and odometer
 ![Price vs Odometer](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA-%2011%20Scatter%20Price%20vs%20odometer.png)
 
+#### Correlation Analysis
+##### Correlation plot for numeric data
+![Correlation plot for Numeric data](https://github.com/viksaraw/Module-11-Pics/blob/main/EDA%20-12%20Correlation.png)
+
+Analysis:  From the correlation plot, it is clear  that price is positively correlated with year and negatively correlated with odometer.
 
 ## Data Preperation
 #### After analyzin the data it is clear that this data needs to be prepared before running the models. Below are few steps to prepare the data
