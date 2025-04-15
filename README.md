@@ -100,6 +100,16 @@ Analysis:  From the correlation plot, it is clear  that price is positively corr
 4. Since we already have model we don't need manufacturer also, so dropping manufacturer
    ![Drop Manufacturer](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%204-%20Drop%20Manufacturer.png)
 
+5. Few columns like size, cylinders, condition, drive, type still have high percentage of NaN values. All the records cannot be deleted. So I will impute them after Train Test Split
 
+Train Test Split
+![Train Test Split](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%205-%20Train%20Test%20Split.png)
 
+6. Impute values for columns like size, cylinders, condition, drive, type. Imputation is done based upon the mode from model or group of model and year
+   ![Impute Values](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%206%20-%20Imputation%20by%20Model.png)
+
+7. Validate values after Imputation, identify issues if still exists
+   ![Validate after Imputation](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%207%20-%20Validate%20values.png)
+
+   Clearly- there are problems in each of these which needs to be fixed individually
 
