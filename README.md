@@ -119,3 +119,6 @@ Train Test Split
 9. Fix drive - Replace 4wd with fwd
     ![Fix drive](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%209%20-%20fix%20drive.png)
 
+10. Fix Year - Convert to Age, convert data type to int
+    ![Fix year](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2010%20-%20Year%20to%20Age.png) 
+
