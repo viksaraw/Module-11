@@ -113,3 +113,9 @@ Train Test Split
 
    Clearly- there are problems in each of these which needs to be fixed individually
 
+8. Fix cylinders - Replace Unknown and other by 6 cylinder, remove word cylinder, convert data type to int
+   ![fix cylinder](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%208-%20Fix%20cylinders.png)
+
+9. Fix drive - Replace 4wd with fwd
+    ![Fix drive](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%209%20-%20fix%20drive.png)
+
