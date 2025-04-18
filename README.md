@@ -138,5 +138,9 @@ Train Test Split
         Thease columns have limited values the values can be sorted in a logical order, so I will be doing **Ordinal 
         Encoding** for them
 
+        **Fixing Model**
+        
+	![Fix 'model'](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2011%20-%20Fix%20model.png)
+
 
 
