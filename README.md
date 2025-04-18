@@ -120,5 +120,23 @@ Train Test Split
    ![Fix drive](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%209%20-%20fix%20drive.png)
 
 10. Fix Year - Convert to Age, convert data type to int
-    ![Fix year](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2010%20-%20Year%20to%20Age.png) 
+    ![Fix year](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2010%20-%20Year%20to%20Age.png)
+
+11. There are still Non Numeric data which needs to be encoded. My strategy for handling the non numeric data is as follows
+
+     - ['model,'region']:
+       After careful consideration-  There are many values for these two columns. It is not advisable
+       to go for One Hot or Ordinal Encoding because of performance issues. So after careful consideration I have decided
+       that I will **replace them with their average prices**. Meaning I will calculate the average price of each model and 
+       replace model with that. Similarly I will calculate the average price of car for each region and replace the region 
+       with that.
+       
+      - ['type', 'transmission', 'drive']
+        These columns don't have many values so it is safe to go for **One Hot Encoding** for them
+
+      - ['condition', 'fuel', 'title_status', 'size']
+        Thease columns have limited values the values can be sorted in a logical order, so I will be doing **Ordinal 
+        Encoding** for them
+
+
 
