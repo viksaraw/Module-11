@@ -142,5 +142,5 @@ Train Test Split
         
 	![Fix 'model'](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2011%20-%20Fix%20model.png)
 
-
-
+       - Fix Region
+         ![Fixing Region](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2014-%20Fix%20region%203.png)
