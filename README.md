@@ -150,3 +150,5 @@ Train Test Split
 	 Apply One hot encoding to the columns ['type', 'transmission',  'drive'] 
 	 Apply Ordinal encoding to columns ['condition', 'fuel', 'title_status', 'size']
          ![Defining Params](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2015-%20Encoding%201.png)
+         Define Transformer and Applying Pipeline
+         ![Define Transformer and apply Pipeline](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2016%20%20Encoding%202.png)
