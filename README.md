@@ -144,3 +144,9 @@ Train Test Split
 
        - Fix Region
          ![Fixing Region](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2014-%20Fix%20region%203.png)
+
+      - # Encoding - all categorical columns: Below is my strategy to encode categorical columns
+
+	 Apply One hot encoding to the columns ['type', 'transmission',  'drive'] 
+	 Apply Ordinal encoding to columns ['condition', 'fuel', 'title_status', 'size']
+         ![Defining Params](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2015-%20Encoding%201.png)
