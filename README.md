@@ -152,3 +152,8 @@ Train Test Split
          ![Defining Params](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2015-%20Encoding%201.png)
          Define Transformer and Applying Pipeline
          ![Define Transformer and apply Pipeline](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2016%20%20Encoding%202.png)
+         Encoding X_test using the same pipeline
+         ![Encoding X_test](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20-%20Prep%2017%20Encoding%203.png)
+         See X_test encoded results
+         ![See X_test](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2018-%20Encoding%204.png)
+         
