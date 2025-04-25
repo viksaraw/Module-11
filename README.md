@@ -156,4 +156,44 @@ Train Test Split
          ![Encoding X_test](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20-%20Prep%2017%20Encoding%203.png)
          See X_test encoded results
          ![See X_test](https://github.com/viksaraw/Module-11-Pics/blob/main/Data%20Prep%2018-%20Encoding%204.png)
-         
+
+    ## Scaling and Modeling
+
+    Now that I have encoded the data, I am ready for Scaling and Modeling
+    Scaling is needed as different attributes has different volumes, for e.g odometer values are completely different than Age
+    To make it standardized, I would do scaling and then I will apply three models - Linear, Lasso  and Ridge Regression
+    
+    **Linear Regression**
+  -  Scaling using Standard Scaler and Linear Regression with CV ranging from 2-11
+    ![Scaling and Linear Regression](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%201-%20Scaling%20and%20LR1.png)
+
+ -   CV Ranging from 2-11
+    ![CV Range](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%202%20-%20Scaling%20and%20LR.png)
+
+
+   -Results and MSE
+    ![Results and MSE](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%203-%20Linear%20Regression%20Result%20with%20MSE.png)
+
+   **Lasso Regression**
+
+   Scaling using Standard Scaler and Lasso Regression
+   ![Scaling and Lasso Regression](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%204-%20Scaling%20and%20Lasso%201.png)
+
+   CV Range for Grid Search CV
+   ![CV Range for Grid Search CV](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%205-%20Scaling%20and%20Laso%202.png)
+
+    
+   Results and MSE of Lasso Regression
+   ![Results and MSE from Lasso Regression](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%206-%20Lasso%20Result%20with%20MSE.png)
+
+   **Ridge Regression**
+      
+   - Scaling using Standard Scaler and Ridge Regression with CV range
+    ![Scaling and Ridge Regression Code](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%207%20-%20Scaling%20and%20Ridge%201.png)
+
+   - CV Range for Grid Search CV
+    ![CV Range for Grid Search](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%208-%20Scaling%20and%20Ridge%202.png)
+
+   - Results and MSE
+     ![Reults and MSE](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%209-%20Ridge%20Result%20with%20MSE.png) 
+
