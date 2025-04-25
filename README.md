@@ -249,3 +249,9 @@ Train Test Split
    - Results and MSE
      ![Reults and MSE](https://github.com/viksaraw/Module-11-Pics/blob/main/Model%209-%20Ridge%20Result%20with%20MSE.png) 
 
+## Conculsion
+Here are the key points rephrased:
+
+#### -Linear Regression is not optimal for this dataset, as indicated by the high Mean Squared Error across all models.
+#### -Consider alternative approaches like robust regression techniques or non-linear models to enhance accuracy and reliability.
+#### -Significant progress has been made in understanding the factors influencing used car prices, despite the high error rates.
